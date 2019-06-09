@@ -13,4 +13,4 @@ title: Ionic Native
   </docs-card>
 </docs-cards>
 
-> These docs are for apps built with Ionic Framework 4.0.0 and greater. For older Ionic v3 projects, please [see here](/docs/v3/native).
+> These docs are for apps built with Ionic Framework 4.0.0 and greater. For older Ionic v3 projects, please [see here](/docs/v3/native)..
